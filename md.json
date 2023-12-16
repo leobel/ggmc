@@ -2,5 +2,6 @@
     "name": "GGMC Wilton's Well",
     "description": "The official GGMC stake pool",
     "ticker": "GGMC",
-    "homepage": "https://ggmc.io/"
+    "homepage": "https://ggmc.io/",
+    "extended": "https://optim.flipr.io/ggmc/ggmc-extended.json"
 }
