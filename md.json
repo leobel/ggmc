@@ -3,5 +3,5 @@
     "description": "The official GGMC stake pool",
     "ticker": "GGMC",
     "homepage": "https://ggmc.io/",
-    "extended": "https://optim.flipr.io/ggmc/ggmc-extended.json"
+    "extended": "https://optim.flipr.io/ggmc/pool-extended.json"
 }
